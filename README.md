@@ -157,6 +157,7 @@ COMING SOON
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 If you'd like to learn more about the Cybermana community then check us out at:
+
 - [The Cybermana Website](https://www.cybermana.net)
 - [Our LinkedIn Community](https://www.linkedin.com/company/cybermana)
 - [Our Facebook Community](https://www.facebook.com/cybermanaUK/ )
