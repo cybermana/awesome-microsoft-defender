@@ -10,13 +10,13 @@ Brought to you by [Cybermana](https://www.cybermana.net) - helping you unlock th
 
 ## Contents
 
-- [Important Resources](##important-resources)
-  - [Licensing](###licensing)
-  - [Products by Region](###products-by-region)
-  - [Updates and Roadmaps](###updates-and-roadmaps)
-- [Technologies](##technologies)
-  - [Microsoft Cloud App Security](###microsoft-cloud-app-security)
-  - [Microsoft Defender for Endpoint](###microsoft-defender-for-endpoint)
+- [Important Resources](#important-resources)
+  - [Licensing](#licensing)
+  - [Products by Region](#products-by-region)
+  - [Updates and Roadmaps](#updates-and-roadmaps)
+- [Technologies](#technologies)
+  - [Microsoft Cloud App Security](#microsoft-cloud-app-security)
+  - [Microsoft Defender for Endpoint](#microsoft-defender-for-endpoint)
   - [Microsoft Defender for Identity](###microsoft-defender-for-identity)
   - [Microsoft Defender for Office](###microsoft-defender-for-office)
 - [Threat Hunting](##threat-hunting)
